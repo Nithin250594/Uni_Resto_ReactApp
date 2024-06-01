@@ -6,11 +6,6 @@ import './index.css'
 
 const Category = {
   salads: 'Salads and Soup',
-  banyard: 'From The Barnyard',
-  hen_house: 'From the Hen House',
-  sea: '"Fresh From The Sea"',
-  biryani: 'Biryani',
-  fast_food: 'Fast Food',
 }
 
 const status = {
